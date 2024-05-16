@@ -44,7 +44,7 @@
   },
   "homepage": "https://wrapping-letters.vercel.app/",
   "dependencies": {
-    "react": "^18.2.0",
+    "react": "^18.3.0",
     "string-similarity": "^4.0.4"
   },
   "devDependencies": {
